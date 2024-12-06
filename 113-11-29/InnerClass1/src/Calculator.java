@@ -26,6 +26,5 @@ public class Calculator {
             case "/" -> System.out.println(operation.divide(a, b));
             default -> System.out.println("不支援此運算");
         }
-
     }
 }
